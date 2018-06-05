@@ -8,7 +8,7 @@ The Computer (Data) Analysis Research Group at the University of Ottawa is worki
 An important objective of our group is to conduct research in close collaboration with industry and other academic groups.
 
 **Posture and Fall Detection System Using 3D Motion Sensors**  
-ham110/Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors#40  
+ham110/Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors#123  
 https://github.com/ham110/Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors  
 
 **LINKS TO OUR LABS**  
