@@ -4,6 +4,7 @@ The Computer (Data) Analysis Research Group at the University of Ottawa is worki
 - Posture and fall detection system using 3D motion sensors  
 - People identification system using 3D motion sensors  
 - Breathing rate estimation using radars  
+
 An important objective of our group is to conduct research in close collaboration with industry and other academic groups.
 
 **Posture and Fall Detection System Using 3D Motion Sensors**  
